@@ -56,7 +56,7 @@ npm start  # or appropriate command
 📬 Let's Connect!
 
 💼 LinkedIn
-📧 Email: your.email@example.com
+📧 Email:elizabethanyango924@gmail.com
 📂 Portfolio
 
 
